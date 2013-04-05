@@ -1,0 +1,73 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="index,follow" name="robots" />
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<link href="logo.png" rel="apple-touch-icon" />
+<meta content="minimum-scale=1.0, maximum-scale=0.6667, width=device-width, user-scalable=no" name="viewport" />
+<link href="iWebKit5.04/Framework/css/style0.css" rel="stylesheet" media="screen" type="text/css" />
+<script type="text/javascript" src="js.js"></script>
+
+<title>AESP mobile
+</title>
+<link href="logo.png" rel="apple-touch-startup-image" />
+<meta content="AESP,pharmacie,association,mobile" name="keywords" />
+<meta content="Association des etudiants en pharmacie" name="description" />
+</head>
+
+<body>
+
+<div id="topbar">
+  <div id="title">
+		AESP mobile</div>
+	<div id="leftbutton">
+		<a href="http://www.asso-etud.unige.ch/aesp/index.php" class="noeffect">AESP site</a> </div>
+</div>
+
+<!-- <div id="tributton">
+	<div class="links">
+		<a id="pressed" href="#">Infos generales</a><a href="changelog.html">Etudes</a><a href="about.html">Liens</a></div>
+</div> -->
+
+<div id="content">
+	<span class="graytitle">Informations générales</span>
+	<ul class="pageitem">
+		<li class="menu"><a href="horaires.html">
+<img alt="list" src="Clock-Icon.png" /><span class="name">Grilles horaires</span><span class="arrow"></span></a></li>
+		<li class="menu"><a href="caf.html">
+  <img alt="wordpress" src="food.png" /><span class="name">Menu cafeteria</span><span class="arrow"></span></a></li>
+		<li class="menu"><a href="comite.html">
+	  <img alt="music" src="thousands-of-members-icon.png" /><span class="name">Membres AESP</span><span class="arrow"></span></a></li>
+		<li class="menu"><a href="pv.html">
+		<img alt="store" src="membership-icon.png" /><span class="name">Réunion du comité</span><span class="arrow"></span></a></li>
+	</ul>
+
+	<span class="graytitle">Prochains évènements</span>
+	<ul class="pageitem">
+		<li class="menu"><a href="soiree.html">
+	  <img alt="list" src="PartyICON.png" /><span class="name">Soirées</span><span class="arrow"></span></a></li>
+      <li class="menu"><a href="photos.html">
+    <img alt="wordpress" src="photo.png" /><span class="name">Photos</span><span class="arrow"></span></a></li>
+		<li class="menu"><a href="test.html">
+	  <img alt="wordpress" src="chemistry.png" /><span class="name">Test</span><span class="arrow"></span></a></li>
+		
+	</ul>
+
+	<span class="graytitle">Études</span>
+	<ul class="pageitem">
+   
+		<li class="menu"><a href="oldtest.html">
+  <img alt="list" src="ancient.png" /><span class="name">Fichiers ancestraux  </span><span class="arrow"></span></a></li>
+		
+	</ul>
+</div>
+
+<div id="footer">
+	<a>Designed by Mahmud KANNUNA</a></div>
+
+</body>
+
+</html>
